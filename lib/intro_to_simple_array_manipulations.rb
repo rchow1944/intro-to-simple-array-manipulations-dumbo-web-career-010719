@@ -9,3 +9,10 @@ end
 def using_pop(arr)
   arr.pop
 end
+
+def pop_with_args(arr)
+  res = []
+  2.times do
+    res << arr.
+  end
+end
