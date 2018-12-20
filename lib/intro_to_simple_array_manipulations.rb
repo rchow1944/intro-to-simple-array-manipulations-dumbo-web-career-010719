@@ -13,6 +13,6 @@ end
 def pop_with_args(arr)
   res = []
   2.times do
-    res << arr.
+    res << arr.pop
   end
 end
